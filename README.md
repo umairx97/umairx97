@@ -1,6 +1,5 @@
 ### Hi there, I'm Umair Ahmed 👦
 A 22 Y/O. Software Engineer who is Highly motivated, loves to experiment. 🎯 from Pakistan.
-- 👬 Join our tech / Javascript centered community on [Slack](https://join.slack.com/t/jspk/shared_invite/zt-fuohz59g-6cSsuJk_xcXTkMh6zAZDlA)
 - 😄 Pronouns: he/him/his
 
 **What do I work on?**  
