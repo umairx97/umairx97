@@ -1,6 +1,5 @@
 ### Hi there, I'm Umair Ahmed 👦
-A 22 Y/O. Software Engineer who is Highly motivated, loves to experiment. 🎯 from Pakistan.
-- 😄 Pronouns: he/him/his
+A 23 Y/O. Software Engineer, loves to experiment. 🎯 from Pakistan.
 
 **What do I work on?**  
 
