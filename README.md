@@ -12,3 +12,5 @@ A 23 Y/O. Software Engineer, loves to experiment. 🎯 from Pakistan.
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png"></code>
 
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=umairx97)](https://github.com/anuraghazra/github-readme-stats)
